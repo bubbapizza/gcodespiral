@@ -1,0 +1,11 @@
+The g2spiral program generates a clockwise spiral using G2 g-codes.
+
+Edit the program to adjust the spiral diameter, placement and gap width.
+
+TODO:
+    Figure out the extrusion values so the spiral can be extruded
+    with a 3D printer
+
+
+Shawn Wilson
+Oct 25, 2015
